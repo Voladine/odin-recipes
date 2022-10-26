@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif, Helvetica, Arial;
+    font-size: 18px;
+}
+
+.food_image {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul {
+    color: rgb(211, 10, 10);
+}
+
+ol {
+    background-color: black;
+    color: rgb(48, 169, 238);
+}
